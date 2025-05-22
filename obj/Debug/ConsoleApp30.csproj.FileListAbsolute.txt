@@ -1,0 +1,11 @@
+D:\215\Ftd\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+D:\215\Ftd\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+D:\215\Ftd\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.AssemblyReference.cache
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30.pdb
+D:\215\Ftd\ConsoleApp30\obj\Debug\ActivityDesigner1.baml
+D:\215\Ftd\ConsoleApp30\obj\Debug\ActivityDesigner1.g.cs
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30_MarkupCompile.cache
+D:\215\Ftd\ConsoleApp30\obj\Debug\ConsoleApp30.g.resources
