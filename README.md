@@ -1,4 +1,4 @@
-# 43PR
+
 Задание 1. Используя Visual Studio, создайте проект по шаблону Console Application.
 
 Создайте класс MyClass и структуру MyStruct, которые содержат в себе поля public string change.
