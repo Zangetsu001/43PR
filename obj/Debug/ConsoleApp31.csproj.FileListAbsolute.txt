@@ -1,0 +1,6 @@
+D:\215\Ftd\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+D:\215\Ftd\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+D:\215\Ftd\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+D:\215\Ftd\ConsoleApp31\obj\Debug\ConsoleApp31.csproj.CoreCompileInputs.cache
+D:\215\Ftd\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+D:\215\Ftd\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
